@@ -10,6 +10,7 @@ Event size: Ensuring adequate staffing.
 Customer preferences: Meeting specific requirements.
 
 📚 CRUD Operations Explained
+
 🟢 Create
 The HR Manager can add new employees to the database.
 
